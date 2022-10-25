@@ -1,46 +1,63 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="Pomodoro-clone" title="Pomodoro-clone" src="https://cdn-icons-png.flaticon.com/512/1584/1584942.png" width="220px" />
+</h1>
+<p align="center">Pomodoro clone com TS/React</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#project">Projeto</a> •
+ <a href="#install">Instalação</a> •
+ <a href="#license">Licença</a>
+</p>
 
-## Available Scripts
+<br>
+<p align="center">
+  <img alt="Page" src="https://user-images.githubusercontent.com/34111368/197764272-7c4bac10-6280-43f6-b563-179d2720afa1.png">
+</p>
 
-In the project directory, you can run:
+<br>
+<h2 id="tecnologias" align="center">
+  Tecnologias :computer:
+</h2>
 
-### `npm start`
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=ed7c5c&style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-03234B?style=for-the-badge&logo=typescript&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h2 id="project" align="center">
+  Projeto :technologist:
+</h2>
+<p align="center">
+  O projeto foi feito com o intuito de reforçar os meus estudos e testar as minhas capacidades. Utilizei React com TS para criar os componentes e arquivos de utilidade, bem como, ESlint/Prettier para padronização e estilo de código.
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h2 id="install" align="center">
+  Instalação :rocket:
+</h2>
+<p align="center">
+  <h3 align="left">Passo a Passo</h3>
+  <ol>
+    <li>Instale o Node com o NPM pelo link: https://nodejs.org/en/download/</li>
+    <li>Depois baixe os arquivos do projeto e execute o terminal dentro da pasta onde contém os arquivos.</li>
+    <li>Agora execute os comandos no terminal:</li>
+    <ul>
+      <li title="Instala os módulos">npm install</li>
+      <li title="Executa o projeto">npm start</li>
+    </ul>
+  </ol>
+</p>
 
-### `npm test`
+<h2 id="license" align="center">
+  Licença 📝
+</h2>
+<p align="center">
+  Esse projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE"> LICENSE </a> para mais detalhes.<br><br>
+  <a href="LICENSE" target="_blank"><img src="https://img.shields.io/static/v1?label=license&message=mit&color=green&style=for-the-badge&logo="/></a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>Site Oficial: <a href="https://pomofocus.io/" target="_blank">Pomofocus</a>
